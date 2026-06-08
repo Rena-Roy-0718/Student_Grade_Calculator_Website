@@ -18,7 +18,7 @@ A beginner-friendly website that calculates average marks, assigns grades, and d
 
 ## Screenshot
 
-![Website Screenshot](screenshots/website-result.png)
+![Website Screenshot]("C:\Users\renar\OneDrive\Desktop\Student_Grade_Webpage\Screenshots")
 
 ## How to Run
 

@@ -18,7 +18,7 @@ A beginner-friendly website that calculates average marks, assigns grades, and d
 
 ## Screenshot
 
-![Website Screenshot](screenshots/Student%20grade%20calculator%20website.png)
+![Website Screenshot](Screenshots/Student%20grade%20calculator%20website.png)
 
 ## How to Run
 
